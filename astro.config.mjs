@@ -4,6 +4,7 @@ import icon from "astro-icon";
 
 export default defineConfig({
 	site: "https://sophieallen0798.github.io/astro-template/", // update me!
+	base: "/astro-template/",
 	integrations: [
 		icon(),
 		sitemap({
