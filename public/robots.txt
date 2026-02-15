@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Allow: /
+
+Sitemap: https://sophieallen0798.github.io/astro-template/sitemap-index.xml
